@@ -6,9 +6,11 @@ Our additions in Examples:
 - loadASPparameters.m - creates the tile of ASPs similar to the hardware setup
 - cnn train.m has been modified for our purposes
 
-Since Matconvnet is built on top of GPU computing, you will need to compile Matconvnet before you can use it. Please refer to the website below for more details (especially for the deprecated beta16 version). We currently do not have plans to update our code for the newest version of Matconvnet or other deep learning packages. 
+Since Matconvnet is built on top of GPU computing, you will need to compile Matconvnet before you can use it. Please refer to the website below for more details (especially for the deprecated beta16 version). 
 
+Note: This is research quality code (so probably will have bugs/lacks of detailed comments). Please contact us for further questions. We currently do not have plans to update our code for the newest version of Matconvnet or other deep learning packages. 
 
+Please see our website: http://molnargroup.ece.cornell.edu/people/suren-jayasuriya/asp-vision/ for more details. Access to real ASP data is only granted on a case-by-case basis for educational/research purposes only, please contact Al Molnar or Suren Jayasuriya for your request.
 
 
 
